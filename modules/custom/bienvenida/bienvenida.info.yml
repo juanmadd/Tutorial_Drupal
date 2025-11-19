@@ -1,0 +1,5 @@
+name: Bienvenida
+type: module
+description: Modulo de bienvenida de web realizada en drupal
+package: modulos
+core_version_requirement: ^8 || ^9
